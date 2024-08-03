@@ -1,5 +1,4 @@
-// src/App.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import CustomerList from "./CustomerList";
 import CustomerDetails from "./CustomerDetails";
